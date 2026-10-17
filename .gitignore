@@ -8,3 +8,7 @@ authApp
 brokerApp
 listener
 frontEndLinux
+# Local benchmark artifacts
+benchmark-results/
+
+/mail-service/api
